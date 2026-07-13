@@ -1,178 +1,80 @@
-# Hi, I'm Bhagyashri Pisal👋 🚀
+# Hi, I'm Bhagyashri Pisal 👋 🚀
 
 ## 👩‍💻 About Me
 
-I'm a **Senior Azure DevOps Engineer | Cloud Platform Engineer | SRE** with **8+ years of IT experience** and **5+ years of experience in DevOps, Cloud Infrastructure, Automation, and Platform Engineering**.
+I'm a **Senior Azure DevOps Engineer | Cloud Platform Engineer | SRE** with **8+ years of IT experience** and **5+ years in DevOps, Cloud Infrastructure, Automation, and Platform Engineering**.
 
-I specialize in building **secure, scalable, and automated cloud solutions** using Microsoft Azure, Terraform, Kubernetes, CI/CD, and DevSecOps practices. I have experience supporting enterprise **.NET applications**, containerizing workloads with Docker, deploying on **Azure Kubernetes Service (AKS)**, and improving reliability through automation, monitoring, and cloud infrastructure optimization.
+I specialize in building **secure, scalable cloud solutions** using **Azure, Terraform, Kubernetes, CI/CD, and DevSecOps practices**. Experienced in supporting enterprise **.NET applications**, Docker containerization, AKS deployments, automation, monitoring, and cloud infrastructure optimization.
 
 ---
 
 ## 🚀 What I Do
 
-- ☁️ Design and automate Azure cloud infrastructure using Terraform (IaC)
-- 🔄 Build CI/CD pipelines using Azure DevOps, GitHub Actions, and Jenkins
-- 🐳 Deploy containerized applications using Docker and Azure Kubernetes Service (AKS)
-- 🔐 Implement DevSecOps practices integrating SAST, container scanning, secrets management, and security automation
-- 📊 Monitor applications using Azure Monitor, Splunk, Dynatrace, Prometheus, and Grafana
-- 🐍 Develop Python and PowerShell automation scripts
-- 🏗️ Implement cloud networking using VNets, NSGs, Private Endpoints, Load Balancers
+- ☁️ Automate Azure infrastructure using **Terraform (IaC)**
+- 🔄 Build CI/CD pipelines using **Azure DevOps, GitHub Actions, Jenkins**
+- 🐳 Deploy containerized applications using **Docker & AKS**
+- 🔐 Implement **DevSecOps** with security scanning and secrets management
+- 📊 Monitor applications using **Azure Monitor, Splunk, Dynatrace, Prometheus, Grafana**
+- 🐍 Automate tasks using **Python, PowerShell, and Bash**
+- 🏗️ Manage Azure networking (**VNet, NSG, Private Endpoint, Load Balancer**)
 
 ---
 
 # 🛠️ Tech Stack
 
-## ☁️ Cloud & Infrastructure
-<P>
+<p>
 <img src="https://skillicons.dev/icons?i=azure,terraform,kubernetes,docker,github,git,jenkins,python,bash" />
-</P>
-
-## 🚀 DevOps Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,docker,kubernetes" />
 </p>
 
+### ☁️ Cloud & Infrastructure
+Azure | AKS | Azure Storage | Key Vault | Azure SQL | ACR | Networking | Managed Identity
 
-## ☸️ Kubernetes Ecosystem
+### 🏗️ Infrastructure as Code
+Terraform | Modules | Remote Backend | State Management
 
-<p>
-<img src="https://skillicons.dev/icons?i=kubernetes,docker" />
-</p>
+### 🔄 CI/CD & GitOps
+Azure DevOps | GitHub Actions | Jenkins | YAML Pipelines | Helm | ArgoCD
 
-
-## 💻 Programming & Automation
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,bash,powershell" />
-</p>
-
-
----
-
-# 🔧 Tools & Technologies
-
-### Cloud
-- Azure Virtual Machines
-- Azure SQL Database
-- Azure Container Registry (ACR)
-- Application Insights
-- Azure Load Balancer
-- Azure Application Gateway
-- Private Endpoints
-- Managed Identity
-
-
-### Infrastructure as Code
-- Terraform Modules
-- Remote Backend Configuration
-- State Locking
-- Infrastructure Provisioning
-- Environment Management
-
-### GitOps
-- GitHub Actions
-- Azure DevOps YAML
-- ArgoCD
-- Helm
-- Kubernetes Deployments
-
-### CI/CD
-- Azure DevOps Pipelines
-- GitHub Actions
-- YAML Pipelines
-
-
-### Security
-- SonarQube
-- Trivy
-- Qualys
-- Azure RBAC
-- Secrets Management
-
-
-### Monitoring
-- Splunk
-- Dynatrace
-- Azure Monitor
-- Prometheus
-- Grafana
-
+### 🔐 Security & Monitoring
+SonarQube | Trivy | Qualys | RBAC | Secrets Management | Splunk | Dynatrace
 
 ---
 
 # 📂 Featured Projects
 
 ## 🚀 Azure Infrastructure Automation
-
-Terraform based Azure infrastructure automation project.
-
-Technologies:
-`Terraform` `Azure` `Azure Storage Backend` `Modules`
-
-Implemented:
-
-✅ Resource Group provisioning  
-✅ Networking automation  
-✅ Storage Account deployment  
-✅ Remote state management  
-✅ Environment-based deployments
+Terraform-based Azure provisioning:
+- Resource Groups
+- VNets & NSGs
+- Storage Accounts
+- Key Vault
+- Remote State Management
 
 ## ☸️ AKS Deployment Automation
-
-Production-style Kubernetes deployment:
-
-- Docker image creation
+- Docker image builds
 - Kubernetes manifests
-- Helm charts
-- AKS deployment
-- Health monitoring
-
-
----
+- Helm deployments
+- AKS workload management
 
 ## 🔐 DevSecOps Pipeline
-
-Secure CI/CD implementation:
-
 - Code scanning
 - Container scanning
 - Secret detection
-- Quality gates
-- Automated deployment
-
-
----
-
-# 📚 Currently Learning
-
-- Advanced Kubernetes Administration
-- GitOps with ArgoCD
-- Platform Engineering
-- Cloud Native Architecture
-- AI assisted DevOps Automation
-
+- Automated deployments
 
 ---
 
 # 📊 GitHub Stats
 
-
 ![Bhagyashri's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhagya2793&show_icons=true&theme=tokyonight)
-
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/bhagyashri-p-a33459154
-- 🐙 GitHub: https://github.com/bhagya2793
+💼 LinkedIn: www.linkedin.com/in/bhagyashri-p-a33459154  
+🐙 GitHub: https://github.com/bhagya2793
 
-Interested in:
-- Azure Cloud
-- DevOps Automation
-- Kubernetes
-- Platform Engineering
-- Open Source Projects
+Interested in **Azure Cloud, DevOps Automation, Kubernetes, Platform Engineering, and Cloud Native Technologies**.
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting!
